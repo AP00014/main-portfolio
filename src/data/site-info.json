@@ -1,0 +1,54 @@
+{
+  "brand": {
+    "name": "Snergize Studio",
+    "tagline": "Professional IT services and product engineering.",
+    "founder": "Williams Aperma"
+  },
+  "sections": {
+    "hero": {
+      "headline": "Welcome to My Digital Space",
+      "subheadline": "Software engineer and freelance builder crafting standout front‑end experiences and rock‑solid back‑end systems."
+    },
+    "projects": {
+      "description": "Hosted case studies with images and live links plus GitHub repositories.",
+      "tabs": ["Projects", "GitHub"]
+    },
+    "timeline": [
+      {
+        "year": "2024",
+        "title": "Guided Studio Experience",
+        "description": "Designed a voice-first guide for portfolio navigation."
+      },
+      {
+        "year": "2023",
+        "title": "Full-Stack Projects",
+        "description": "Built interactive web apps using Next.js and Node.js."
+      },
+      {
+        "year": "2022",
+        "title": "Frontend Focus",
+        "description": "Crafted polished UI systems and design systems."
+      }
+    ],
+    "about": {
+      "title": "Technology partner for growing teams",
+      "summary": "We deliver reliable IT services, custom software, and scalable systems that help organizations operate smarter and grow faster.",
+      "pillars": [
+        "Enterprise Solutions",
+        "Cloud & DevOps",
+        "Product Engineering"
+      ]
+    },
+    "contact": {
+      "headline": "Talk to our IT team",
+      "summary": "Tell us about your goals and we’ll propose a tailored roadmap, timeline, and budget.",
+      "email": "hello@snergize.studio",
+      "phone": "0599539341",
+      "location": "Ghana-Kumasi",
+      "availability": "Enterprise, startup, and public sector"
+    }
+  },
+  "links": {
+    "github": "https://github.com/AP00014"
+  }
+}
